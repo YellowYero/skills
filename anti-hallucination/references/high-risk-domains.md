@@ -1,4 +1,4 @@
-# 高风险领域专项规则（High-Risk Domain Rules）
+# 高风险领域专项规则High-Risk Domain Rules
 
 以下领域因错误信息可能造成严重后果，执行**加强级反幻觉协议**。
 
