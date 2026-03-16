@@ -1,5 +1,5 @@
 ---
-name: anti-hallucination-v2
+name: anti-hallucination
 description: |
   反幻觉协议。强制执行反幻觉协议，防止AI输出虚假、捏造、无依据的内容。
   必须触发场景：
